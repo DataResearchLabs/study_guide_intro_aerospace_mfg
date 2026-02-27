@@ -1,8 +1,9 @@
 # Introduction to Aerospace Manufacturing
 Study Guide for Intro to Aerospace Manufacturing
 
-**IMPORTANT NOTE:** You cannot simply click the PPSX slide file link to view it (gives a cannot display raw file error).<br>
-Instead, you must click the [...] button to download the PPSX file, then view it in a browser with PowerPoint from there.  Alternatively, you can view the PDF files natively (without the nice slide special effects).
+**IMPORTANT NOTE:** After clicking a PPSX or PPTX slide file, the screen will show a message "(Sorry about that, but we can't show files this big rightnow.)"<br>
+This is normal.  You must now click the [...] button in upper right cornet to download the PPSX file, then view it in a browser with PowerPoint from there. <br>
+Alternatively, you can forego the fancy PowerPoint special effects and simply view the PDF files natively with a single click.
 
 ### What is this Study Guide?
 The Washington Aerospace Training & Research Center ([WATR](https://watrcenter.edmonds.edu/)) offers five specialty 12-week programs to launch a new career as an aircraft mechanic.
